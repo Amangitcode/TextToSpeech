@@ -1,0 +1,4 @@
+google: freetts.jar
+FreeTTS Link : download - freetts - dowanload leatest version 
+open zip file - freetts -
+lib - extract only jar files 
